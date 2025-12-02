@@ -71,4 +71,4 @@ The main goal of this project is to analyze mobile usage patterns and extract ac
 - Pandas, NumPy  
 - Seaborn, Matplotlib  
 - Scikit-learn (K-Means, StandardScaler)  
-- Streamlit (Interactive Dashboard)  
+- Streamlit (Interactive Dashboard)https://mobile-device-usage-eda-a53gicyjv2efjxs4i6yqqd.streamlit.app/  
